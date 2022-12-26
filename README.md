@@ -1,25 +1,11 @@
 - 👋 Hi, I’m Aiwerioghene, Adesuwa
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning C++, Java, Html, Css and Js
+- 🥰 Current in my 2nd year in Uni
+- 📫 You can reach me on: @daysuwaaiwerioghene@icloud.com
+- ⚡ Fun fact: I enjoy listening to music
 
 
-## Hi, I'm Collins, currently $$ years old student in Software Engineering, on this github I share my small open source projects, have fun browsing it
-<!--
-**collinscodes2005/collinscodes2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on hotel recommender based on budget
-- 🌱 I’m currently learning data science
-- 👯 I’m looking to collaborate on and data science related project, django
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about data science, python, django
-- 📫 How to reach me: danlogan2003@gmail.com, +2349020829000
-- 😄 Pronouns: He
-- ⚡ Fun fact: Basketball loverrr....
--->
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinscodes2005&layout=compact">
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=collinscodes2005&show_icons=true&theme=dark">
