@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aiwerioghene, Adesuwa
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning C++, Java, Html, Css and Js
-- 🥰 Current in my 2nd year in Uni
+- 🥰 Currently in my 2nd year in Uni
 - 📫 You can reach me on: @daysuwaaiwerioghene@icloud.com
 - ⚡ Fun fact: I enjoy listening to music
 
