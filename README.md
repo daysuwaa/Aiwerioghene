@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aiwerioghene, Adesuwa
+- 👋 Hi, I’m Aiwerioghene Adesuwa
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning C++, Java, Html, CSS, JavaScript and Bootstrap.
 - 🥰 Currently in my 2nd year in Uni
