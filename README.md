@@ -1,4 +1,4 @@
-👋 Hello, I am Aiwerioghene Adesuwa.
+👋 Heyyy there, I'm Daysuwaa.
 
 👀 I have a keen interest in web development.
 
