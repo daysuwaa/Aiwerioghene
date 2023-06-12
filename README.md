@@ -1,11 +1,7 @@
 👋 Heyyy there, I am Adesuwa (Ah-day-su-wa).
-
 👀 I have a keen interest in web development.
-
 🌱 Currently, I am learning C++, Java, HTML, CSS, JavaScript, and Bootstrap.
-
 🥰 I am currently in my second year of university; studying computer science.
-
 📫 You can reach me at daysuwaaiwerioghene@icloud.com.
 
 
