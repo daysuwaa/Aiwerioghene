@@ -6,6 +6,8 @@
 
 🥰 I am currently in my second year of university; studying computer science.
 
+🤡 Fun fact :sadly, i have no fun fact🙊
+
 📫 You can reach me at daysuwaaiwerioghene@icloud.com.
 
 
