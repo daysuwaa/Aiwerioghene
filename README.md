@@ -1,4 +1,4 @@
-👋 Heyyy there, I am Adesuwa (Ah-day-su-wa).
+👋 Heyyy there, I am Adesuwa (Ah-day-sue-wa).
 
 👀 I have a keen interest in web development.
 
@@ -6,7 +6,7 @@
 
 🥰 I am currently in my second year of university; studying computer science.
 
-🤡 Fun fact :sadly, i have no fun fact🙊
+🤡 Fun fact :sadly, i have no fun fact🙊.
 
 📫 You can reach me at daysuwaaiwerioghene@icloud.com.
 
