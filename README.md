@@ -1,4 +1,4 @@
-👋 Heyyy there, I am Adesuwa (Ah-day-sue-wa).
+👋 Heyyy there, I am Adesuwa (Ah-day-sue-w).
 
 👀 I have a keen interest in web development.
 
