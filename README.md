@@ -18,5 +18,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 📊 GitHub Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Aiwerioghene)](https://git.io/streak-stats)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aiwerioghene&theme=dark&hide_border=false)<br/>
 ![Susu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aiwerioghene&show_icons=true&theme=transparent)
