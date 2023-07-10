@@ -4,10 +4,6 @@
 
 🌱 Currently, I am learning C++, Java, HTML, CSS, JavaScript, and Bootstrap.
 
-🥰 I am currently in my second year of university; studying Computer Science.
-
-🤡 Fun fact :sadly, i have no fun fact🙊.
-
 📫 You can reach me at daysuwaaiwerioghene@icloud.com.
 
 
