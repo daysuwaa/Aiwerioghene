@@ -2,7 +2,7 @@
 
 👀 I have a keen interest in web development.
 
-🌱 Currently, I am learning C++, Java, HTML, CSS, JavaScript, and Bootstrap.
+🌱 Currently, I am learning HTML, CSS, JavaScript, and Bootstrap.
 
 📫 You can reach me at daysuwaaiwerioghene@icloud.com.
 
