@@ -1,6 +1,6 @@
 👋 Heyyy there, I am Adesuwa (Ah-day-sue-wa).
 
-👀 I am a Front-End Developer.
+👀 I am a Front-End Developer
 
 🌱 Currently, I am learning HTML, CSS, JavaScript, and Bootstrap.
 
