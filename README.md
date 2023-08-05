@@ -4,7 +4,7 @@ I specialize in creating responsive and user-friendly websites, focusing on deli
 
 📍: Lagos, Nigeria 🇳🇬.
 
-✉️: daysuwaaiwerioghene@icloud.com
+✉️: daysuwaaiwerioghene@icloud.com.
 <!--- 
 Aiwerioghene/Aiwerioghene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
