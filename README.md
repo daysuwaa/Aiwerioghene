@@ -1,7 +1,9 @@
 Hey there, I'm Adesuwa (AH-DAY-SUE-WA),
 I am a Front-End Developer.
 
-Stack : React JS,
+Stack : 
+
+        React JS,
 
         Tailwind CSS, 
 	
