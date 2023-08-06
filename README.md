@@ -3,17 +3,17 @@ I am a Front-End Developer.
 
 Stack : 
 
-       React JS,
+        React JS,
 
         Tailwind CSS, 
 	
-	HTML, 
+	  HTML, 
  
-	CSS, 
+	  CSS, 
  
-	Javascript and
+	  Javascript and
  
-	Bootstrap.👩🏽‍💻 
+	  Bootstrap.👩🏽‍💻 
 
 I specialize in creating responsive and user-friendly websites, focusing on delivering high-quality and interactive user experiences. 
 
