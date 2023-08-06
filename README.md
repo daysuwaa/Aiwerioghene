@@ -1,6 +1,6 @@
 Hello!👋🏾 I'm Adesuwa (AH-DAY-SUE-WA), a Front-End Developer specializing in React JS,Tailwind CSS, HTML, CSS, JS and Bootstrap.👩🏽‍💻 
 
-My focus is on crafting user-friendly websites with responsive layouts. Continuous learning drives me to stay updated with the latest technologies.
+I specialize in creating responsive and user-friendly websites, focusing on delivering high-quality and interactive user experiences. Alongside coding, I am open to learning new things, as it enables me to enhance my skills. 
 
 📍: Lagos, Nigeria 🇳🇬.
 
