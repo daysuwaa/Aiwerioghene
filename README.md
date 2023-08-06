@@ -3,7 +3,7 @@ I am a Front-End Developer.
 
 Stack : 
 
-        React JS,
+       React JS,
 
         Tailwind CSS, 
 	
