@@ -5,7 +5,7 @@ Stack :  React JS, Tailwind CSS,  HTML, CSS, Javascript and Bootstrap.👩🏽�
 
 I specialize in creating responsive and user-friendly websites, focusing on delivering high-quality and interactive user experiences. 
 
-📍: Lagos, Nigeria 🇳🇬
+📍: Lagos, Nigeria 🇳🇬.
 
 📪 : daysuwaaiwerioghene@icloud.com.
 <!--- 
