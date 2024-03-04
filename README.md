@@ -1,5 +1,5 @@
 Hey there, I'm Adesuwa,
-I am a Front-End Developer.
+I am a Front-End Developer
  
 Stack :  React JS, Tailwind CSS,  HTML, CSS, Javascript and Bootstrap.👩🏽‍💻 
 
